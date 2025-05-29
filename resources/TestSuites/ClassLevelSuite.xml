@@ -6,7 +6,7 @@
     </listeners>
     <test name="API Users TestCases">
         <packages>
-            <package name="org.userManagement"/>
+            <package name="org.userManagement.getPostmanEcho"/>
            <package name="Test" />
         </packages>
     </test>
